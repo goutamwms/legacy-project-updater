@@ -1,0 +1,4 @@
+RewriteEngine On
+
+# Route versioning: /v{num}/path → /path
+RewriteRule ^v(\d+)/(.+)$ $2 [L,QSA]

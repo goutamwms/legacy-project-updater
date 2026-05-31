@@ -1,0 +1,68 @@
+[
+    {
+        "bike_id": 201,
+        "model_name": "Volt Rider",
+        "brand": "EcoMotion",
+        "battery_range_km": 80,
+        "motor_power_w": 500,
+        "daily_rate": 29.99,
+        "is_available": true,
+        "weight_kg": 22.5,
+        "charge_time_h": 4.5
+    },
+    {
+        "bike_id": 202,
+        "model_name": "City Glide",
+        "brand": "UrbanSpark",
+        "battery_range_km": 60,
+        "motor_power_w": 350,
+        "daily_rate": 24.99,
+        "is_available": true,
+        "weight_kg": 19.8,
+        "charge_time_h": 3.5
+    },
+    {
+        "bike_id": 203,
+        "model_name": "Trail Surge",
+        "brand": "EcoMotion",
+        "battery_range_km": 100,
+        "motor_power_w": 750,
+        "daily_rate": 39.99,
+        "is_available": false,
+        "weight_kg": 25,
+        "charge_time_h": 5
+    },
+    {
+        "bike_id": 204,
+        "model_name": "Commute Ease",
+        "brand": "CityWatt",
+        "battery_range_km": 45,
+        "motor_power_w": 250,
+        "daily_rate": 19.99,
+        "is_available": true,
+        "weight_kg": 17.2,
+        "charge_time_h": 3
+    },
+    {
+        "bike_id": 205,
+        "model_name": "Hill Climber X",
+        "brand": "UrbanSpark",
+        "battery_range_km": 90,
+        "motor_power_w": 1000,
+        "daily_rate": 44.99,
+        "is_available": true,
+        "weight_kg": 27.3,
+        "charge_time_h": 6
+    },
+    {
+        "bike_id": 206,
+        "model_name": "Breeze Electric",
+        "brand": "CityWatt",
+        "battery_range_km": 70,
+        "motor_power_w": 500,
+        "daily_rate": 34.99,
+        "is_available": false,
+        "weight_kg": 21,
+        "charge_time_h": 4
+    }
+]

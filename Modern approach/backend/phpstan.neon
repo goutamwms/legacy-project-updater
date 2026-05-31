@@ -1,0 +1,11 @@
+parameters:
+    level: 9
+    paths:
+        - data/
+        - services/
+        - handlers/
+        - src/
+    excludePaths:
+        - vendor/
+        - SampleData/
+        - tests/
