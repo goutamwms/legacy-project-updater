@@ -160,7 +160,7 @@ A CD step could push the Docker image to a registry and deploy to Kubernetes or 
 - logging
 ---
 
-## 6. Full Application Overview, Structure, and How to Run
+## 4. Full Application Overview, Structure, and How to Run
 
 ### Application Overview
 
@@ -367,3 +367,11 @@ All endpoints are under the `/v1/` prefix. Unversioned paths (`/handlers/...`) a
 | GET | `/v1/handlers/accessory?bikeType=beach\|mountain\|electric` | List compatible accessories |
 | POST | `/v1/handlers/accessory` | Submit accessory order |
 | GET | `/v1/handlers/version` | Build version info |
+
+### Screenshots
+
+<img src="Modern%20approach/images/1.jpeg" width="500">
+<img src="Modern%20approach/images/4.jpeg" width="500">
+<img src="Modern%20approach/images/2.jpeg" width="500">
+<img src="Modern%20approach/images/3.jpeg" width="500">
+<img src="Modern%20approach/images/5.jpeg" width="500">
