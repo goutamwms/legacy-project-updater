@@ -375,3 +375,4 @@ All endpoints are under the `/v1/` prefix. Unversioned paths (`/handlers/...`) a
 <img src="Modern%20approach/images/2.jpeg" width="500">
 <img src="Modern%20approach/images/3.jpeg" width="500">
 <img src="Modern%20approach/images/5.jpeg" width="500">
+<img src="Modern%20approach/images/6.jpeg" width="500">
